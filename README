@@ -1,0 +1,7 @@
+This project was created to make a public crowd sourced living .config file for KVM guests and Hypervisors.  
+
+The goal of the guest is to provide the best performance and strip out all of the bits in the kernel that cannot be used on Virtual hardware provided by KVM.
+
+The goal of the Hypervisor is to provide a good coverage of what a hypervisor will need.  This for many people will be a starting point for their environment as hardware components and configurations will be different.
+
+
